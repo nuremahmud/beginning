@@ -2,6 +2,8 @@ body {
   background-color: burlywood;
 }
 .main {
-  width: 80%
-  background-color: white
+  width: 80%;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
 }
